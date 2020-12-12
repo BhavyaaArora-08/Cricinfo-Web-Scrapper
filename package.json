@@ -1,0 +1,25 @@
+{
+  "name": "WebScrapper",
+  "version": "1.0.0",
+  "description": "Activities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codess08/Cricinfo-Web-Scrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codess08/Cricinfo-Web-Scrapper/issues"
+  },
+  "homepage": "https://github.com/Codess08/Cricinfo-Web-Scrapper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
